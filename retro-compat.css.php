@@ -1,5 +1,5 @@
 <?php
-/* test
+/* test 2
 * 2007-2015 PrestaShop
 *
 * NOTICE OF LICENSE
